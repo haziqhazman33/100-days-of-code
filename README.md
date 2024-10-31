@@ -8,3 +8,6 @@
 
 *Day3 Control flow and logical operators*
 * [Treasure hunt](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%203)
+
+*Day4 random module and python list*
+* [RockPaperScissors](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%204)
