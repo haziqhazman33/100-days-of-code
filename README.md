@@ -5,3 +5,6 @@
 
 *Day2 Understand Data types and know to manipulate strings*
 * [Tip Calculator](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%202)
+
+*Day3 Control flow and logical operators*
+* [Treasure hunt](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%203)
