@@ -11,3 +11,6 @@
 
 *Day4 random module and python list*
 * [RockPaperScissors](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%204)
+
+*Day5 understanding python loops*
+* [PypasswordGenerator](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%205)
