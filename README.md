@@ -16,4 +16,4 @@
 * [PypasswordGenerator](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%205)
 
 *Day6 python function and karel*
-* [ReeborgWorld1&2](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle1.txt)
+* [ReeborgWorld1&2&3](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle1.txt)
