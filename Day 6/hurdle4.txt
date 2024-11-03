@@ -22,3 +22,5 @@ while not at_goal():
 
     else:
         move()
+
+# surprisingly it works on hurldle 1,2,3
