@@ -19,3 +19,6 @@
 * [ReeborgWorld1&2&3](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle1.txt)
 * [ReeborgWorld4](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle4.txt)
 * [ReeborgMaze](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/Reeborg_Maze.txt)
+
+*Day7 hangman*
+* [Hangman](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%207)
