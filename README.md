@@ -22,3 +22,6 @@
 
 *Day7 hangman*
 * [Hangman](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%207)
+
+*Day8 Caesar Cipher*
+* [CaesarCipherFinal](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%208)
