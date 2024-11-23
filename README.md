@@ -25,3 +25,6 @@
 
 *Day8 Caesar Cipher*
 * [CaesarCipherFinal](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%208)
+
+*Day9 Bidding game*
+* [biddinggame](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%209)
