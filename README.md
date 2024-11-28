@@ -2,19 +2,14 @@
 
 *Day1 Working with variable in Python to manage data*
 * [band-name-generator](https://github.com/haziqhazman33/100-days-of-code/tree/main/001.%20Band_name_generator)
-
 *Day2 Understand Data types and know to manipulate strings*
-* [Tip Calculator](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%202)
-
+* [Tip Calculator](https://github.com/haziqhazman33/100-days-of-code/tree/main/002.%20Tip_calc)
 *Day3 Control flow and logical operators*
-* [Treasure hunt](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%203)
-
+* [Treasure hunt](https://github.com/haziqhazman33/100-days-of-code/tree/main/003.%20Treasure%20Island%20game)
 *Day4 random module and python list*
-* [RockPaperScissors](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%204)
-
+* [RockPaperScissors](https://github.com/haziqhazman33/100-days-of-code/tree/main/004.%20RockPaperScissor)
 *Day5 understanding python loops*
-* [PypasswordGenerator](https://github.com/haziqhazman33/100-days-of-code/tree/main/Day%205)
-
+* [PypasswordGenerator](https://github.com/haziqhazman33/100-days-of-code/tree/main/005.%20PypassGenerator)
 *Day6 python function and karel*
 * [ReeborgWorld1&2&3](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle1.txt)
 * [ReeborgWorld4](https://github.com/haziqhazman33/100-days-of-code/blob/main/Day%206/hurdle4.txt)
