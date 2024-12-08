@@ -34,3 +34,12 @@
 
 *Day11 BlackJack*
 * [BlackJackGame](https://github.com/haziqhazman33/100-days-of-code/tree/main/011.%20blackjack)
+
+*Day12 Number Guessing Game*
+* [Guessing_game](https://github.com/haziqhazman33/100-days-of-code/tree/main/012.%20Number%20guessing%20game)
+
+*Day13 Debugging*
+* [Debugging techniques](https://github.com/haziqhazman33/100-days-of-code/blob/main/013.%20Debugging/findfixerror.py)
+
+*Day14 High_lower End game*
+* [High_low](https://github.com/haziqhazman33/100-days-of-code/blob/main/014.%20high_lower%20game/main.py)
