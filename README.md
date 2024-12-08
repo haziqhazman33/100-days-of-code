@@ -43,3 +43,7 @@
 
 *Day14 High_lower End game*
 * [High_low](https://github.com/haziqhazman33/100-days-of-code/blob/main/014.%20high_lower%20game/main.py)
+
+*Day14 High_lower End game*
+* [Coffee machine](https://github.com/haziqhazman33/100-days-of-code/tree/main/015.%20Coffee_machine%20program)
+
