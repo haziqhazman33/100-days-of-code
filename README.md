@@ -50,3 +50,7 @@
 *Day16 Coffee machine program OOP*
 * [Coffee machine OOP](https://github.com/haziqhazman33/100-days-of-code/tree/main/016.%20CoffeeMachineOOP)
 
+*Day17 Quiz OOP*
+* [Quiz project](https://github.com/haziqhazman33/100-days-of-code/tree/main/017.%20Quiz%20project)
+
+
