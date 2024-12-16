@@ -53,4 +53,11 @@
 *Day17 Quiz OOP*
 * [Quiz project](https://github.com/haziqhazman33/100-days-of-code/tree/main/017.%20Quiz%20project)
 
+*Day18 Hirst paint*
+* [Hirst project](https://github.com/haziqhazman33/100-days-of-code/tree/main/018.%20Hirst_painting)
+
+*Day19 Turtle Race*
+* [Turtle_race Game](https://github.com/haziqhazman33/100-days-of-code/tree/main/019.%20turtle_race)
+  
+
 
